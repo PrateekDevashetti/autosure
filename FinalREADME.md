@@ -1,6 +1,4 @@
 # AutoSure
-
-# AutoSure
 <img src="https://i.ibb.co/9GXhJ1d/Group-1141.png" alt="Group-1141" border="0">
 
 Table of Contents
