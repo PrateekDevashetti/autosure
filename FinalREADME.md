@@ -48,3 +48,5 @@ We can charge the organization or the user with 1% fees, which according to our 
 ## Promo Video
 
 <a href="https://youtu.be/JiiwFK3LW1I">Promo Video</a>
+
+[![](http://img.youtube.com/vi/JiiwFK3LW1I/0.jpg)](http://www.youtube.com/watch?v=JiiwFK3LW1I "")
